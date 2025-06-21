@@ -2,6 +2,7 @@
 # 📊 Expense Tracker Application
 
 Welcome to the Expense Tracker Application built with Flutter. This application helps users manage their expenses effectively by providing a user-friendly interface for tracking financial activities.
+
 ---
 
 ## 📁 Project Structure
