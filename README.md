@@ -23,10 +23,7 @@ Welcome to the Expense Tracker Application built with Flutter. This application 
 ### 📱 Features
 
 - Cross-Platform: Runs on Android, iOS, web, and desktop.
-- User Authentication: Secure login and registration features.
 - Expense Management: Add, edit, and delete expenses with ease.
-- Categorization: Organize expenses into categories for better tracking.
-- Visual Analytics: View expenses through charts and graphs.
 - Responsive Design: Optimized for various screen sizes.
 
 ### 🛠️ Technologies Used
