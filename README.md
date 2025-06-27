@@ -33,7 +33,6 @@ Welcome to the Expense Tracker Application built with Flutter. This application 
 
 - Flutter: The primary framework for building the application.
 - Dart: The programming language used for Flutter development.
-- Firebase: For backend services (authentication, database).
 - Provider: State management solution for Flutter.
   
 ---
